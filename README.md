@@ -1,4 +1,4 @@
-# Proyek-Predictive-Analytics
+# Proyek Predictive Analytics
 # Laporan Proyek Machine Learning - Maulana Ridhwan Riziq
 
 ## Domain Proyek
